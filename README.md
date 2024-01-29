@@ -36,6 +36,11 @@ bcrypt, Flask, gunicorn (if you plan to deploy), python-dotenv, SQLAlchemy, sqla
   ## Credits
   EdX Bootcamp Full Stack Web Development Continuation Courses provided the code and I followed step by step to learn how to build a website with Python. 
 
+  ## Testing
+  Click on "Login" and then signup to be a user by filling out a username, email, and password and click on "signup". This will allow you to make posts, comment, upvote, etc.
+
+  ![signup](./app/static/images/signup.png)
+
   ## How to Contribute
   Clone / Fork the project and push changes. Email me (see below) if you want to add anything.
 
