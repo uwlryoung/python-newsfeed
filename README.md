@@ -9,6 +9,9 @@ Why this project: This was a continuing education self-paced course provided by 
 
 What I learned: I learned how to set up a website with Python. It was very interesting to compare some of the differences between JavaScript/Node.js and Python to make a website.  
 
+![homescreen](./app/static/images/homescreen.png)
+(lorem ipsum used for seeded examples)
+
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
